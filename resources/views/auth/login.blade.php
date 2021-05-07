@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Login</title>
+    <h1>git test for push</h1>
+    <title>Login </title>
     <link href="{{ asset('custom_css/bootstrap.min.css') }}" rel="stylesheet">
 </head>
 <body>
